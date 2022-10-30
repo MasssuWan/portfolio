@@ -268,3 +268,20 @@ textarea {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
+
+.circle1{
+   border: solid;
+   height: 570px;
+   width: 570px;
+   border-radius: 50%;
+   z-index: -1;
+}
+
+
+.circle2 {
+  border: solid;
+  height: 290px;
+  width: 290px;
+  border-radius: 50%;
+  z-index: -1;
+}
